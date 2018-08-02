@@ -33,5 +33,13 @@ for i in range(10):
 for i in string:
 	print(i)
 
+x = 0 
+while x < 2:
+	print("do some computation")
+
+	
+
+
+
 
 
